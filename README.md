@@ -16,7 +16,7 @@ Welcome to Lite Bank! This C project enables you to manage user accounts, regist
 1. Clone this repository to your local machine:
 `
    ```bash
-   git clone https://github.com/deathofnight55/lite-bank.git
+   git clone https://github.com/deathofnight0/lite-bank.git
  
 2. Compile the project using a C compiler (e.g., GCC):
     ```bash
